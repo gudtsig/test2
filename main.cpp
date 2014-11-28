@@ -4,5 +4,6 @@ using namespace std;
 int main()
 {
     cout <<"Hello world" <<endl;
+    //nytt komment
     return 0;
 }
